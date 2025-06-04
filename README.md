@@ -29,7 +29,7 @@ This project presents a comprehensive sales analysis of Zara's retail dataset us
 
 > ⚠️ Add screenshots in the `/visuals/` folder and link here once uploaded:
 
-![Dashboard Screenshot](./visuals/zara_sales_dashboard.png)
+![visuals/Zara Annual Report Image.png]
 ![Zara Sales Dashboard](./visuals/zara_dashboard.png)
 
 
