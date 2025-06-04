@@ -27,10 +27,10 @@ This project presents a comprehensive sales analysis of Zara's retail dataset us
 
 ## 📈 Dashboard Preview
 
-> ⚠️ Add screenshots in the `/visuals/` folder and link here once uploaded:
+![Zara Annual Report](./visuals/Zara%20Annual%20Report%20Image.png)
 
-visuals/Zara Annual Report Image.png
-![Zara Sales Dashboard](./visuals/zara_dashboard.png)
+This dashboard summarizes Zara's annual sales performance across key segments such as gender, age group, and state-wise sales trends.
+
 
 
 ---
